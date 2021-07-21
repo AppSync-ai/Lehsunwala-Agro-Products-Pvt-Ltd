@@ -19,6 +19,8 @@ Manage Customers </br>
 <img src="https://user-images.githubusercontent.com/81430894/126473065-0ef151c5-8810-43e1-8fa7-d976a1c500f5.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/126473072-7a3d2b3b-8eb7-42e4-a515-52656f94b024.jpeg" height="500" width="240"/>
 
+Manage In / Out </br>
+<img src="https://user-images.githubusercontent.com/81430894/126475384-41d1aa22-62e7-438a-8be5-c82ca6a3467e.jpeg" height="500" width="240"/>
 
 
 <img src="" height="500" width="240"/>
