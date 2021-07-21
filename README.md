@@ -21,6 +21,12 @@ Manage Customers </br>
 
 Manage In / Out </br>
 <img src="https://user-images.githubusercontent.com/81430894/126475384-41d1aa22-62e7-438a-8be5-c82ca6a3467e.jpeg" height="500" width="240"/>
+<img src="https://user-images.githubusercontent.com/81430894/126478932-29f139d0-1dbd-427a-b82f-0fb819eedd5a.jpeg" height="500" width="240"/>
+<img src="https://user-images.githubusercontent.com/81430894/126478958-ec0d302d-b598-483c-bd57-811cff3ad181.jpeg" height="500" width="240"/>
+<img src="https://user-images.githubusercontent.com/81430894/126478961-15e6a506-09ba-486a-8dbe-826a8ff794d4.jpeg" height="500" width="240"/>
+<img src="https://user-images.githubusercontent.com/81430894/126478966-38852b9a-c605-4e3d-8473-3e52c9399d02.jpeg" height="500" width="240"/>
+<img src="https://user-images.githubusercontent.com/81430894/126478971-c35c43c4-e315-4fbe-a84d-5dd9116953d7.jpeg" height="500" width="240"/>
+
 
 
 <img src="" height="500" width="240"/>
