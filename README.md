@@ -19,7 +19,7 @@ Manage Customers </br>
 <img src="https://user-images.githubusercontent.com/81430894/126473065-0ef151c5-8810-43e1-8fa7-d976a1c500f5.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/126473072-7a3d2b3b-8eb7-42e4-a515-52656f94b024.jpeg" height="500" width="240"/>
 
-Manage In / Out </br>
+Manage Inwards </br>
 <img src="https://user-images.githubusercontent.com/81430894/126475384-41d1aa22-62e7-438a-8be5-c82ca6a3467e.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/126478932-29f139d0-1dbd-427a-b82f-0fb819eedd5a.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/126478958-ec0d302d-b598-483c-bd57-811cff3ad181.jpeg" height="500" width="240"/>
