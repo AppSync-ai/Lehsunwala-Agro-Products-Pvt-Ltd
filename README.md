@@ -15,9 +15,9 @@
 <img src="https://user-images.githubusercontent.com/81430894/126460562-38f859ed-cb52-4d5b-9117-7d7c1b13867e.jpeg" height="500" width="240"/>
 
 Manage Customers </br>
-<img src="" height="500" width="240"/>
-<img src="" height="500" width="240"/>
-<img src="" height="500" width="240"/>
+<img src="https://user-images.githubusercontent.com/81430894/126473068-f6c230a9-4538-41b1-b9b2-12fc04a17821.jpeg" height="500" width="240"/>
+<img src="https://user-images.githubusercontent.com/81430894/126473065-0ef151c5-8810-43e1-8fa7-d976a1c500f5.jpeg" height="500" width="240"/>
+<img src="https://user-images.githubusercontent.com/81430894/126473072-7a3d2b3b-8eb7-42e4-a515-52656f94b024.jpeg" height="500" width="240"/>
 
 
 
