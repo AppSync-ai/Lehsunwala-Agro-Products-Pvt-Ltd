@@ -27,6 +27,11 @@
 <img src="https://user-images.githubusercontent.com/81430894/126478966-38852b9a-c605-4e3d-8473-3e52c9399d02.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/126478971-c35c43c4-e315-4fbe-a84d-5dd9116953d7.jpeg" height="500" width="240"/>
 
+Manage Outwards </br>
+<img src="https://user-images.githubusercontent.com/81430894/126491796-5809929a-514f-498e-9bc8-30e1b96856f9.jpeg" height="500" width="240"/>
+<img src="https://user-images.githubusercontent.com/81430894/126491811-12300fc5-f6ff-43b8-a5c9-4a54ebda60f4.jpeg" height="500" width="240"/>
+
+
 
 
 <img src="" height="500" width="240"/>
