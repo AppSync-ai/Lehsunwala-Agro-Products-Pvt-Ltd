@@ -10,5 +10,11 @@
 <img src="https://user-images.githubusercontent.com/81430894/126460555-05b86c61-5912-4b21-b299-249a27ef9f9b.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/126460562-38f859ed-cb52-4d5b-9117-7d7c1b13867e.jpeg" height="500" width="240"/>
 
+Manage Customers
+<img src="https://user-images.githubusercontent.com/81430894/126472173-852ed51d-3a60-411a-8bd9-58caf71ea836.jpeg" height="500" width="240"/>
+<img src="https://user-images.githubusercontent.com/81430894/126472197-068898f5-cd96-4876-9528-b57266fd48dc.jpeg" height="500" width="240"/>
+<img src="https://user-images.githubusercontent.com/81430894/126472211-a7bae283-57f9-4294-adfc-72f7f9c6e477.jpeg" height="500" width="240"/>
+
+
 
 <img src="" height="500" width="240"/>
