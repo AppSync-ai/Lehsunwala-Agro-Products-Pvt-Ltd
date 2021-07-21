@@ -31,6 +31,12 @@ Manage Outwards </br>
 <img src="https://user-images.githubusercontent.com/81430894/126491796-5809929a-514f-498e-9bc8-30e1b96856f9.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/126491811-12300fc5-f6ff-43b8-a5c9-4a54ebda60f4.jpeg" height="500" width="240"/>
 
+Checkout Stock </br>
+<img src="https://user-images.githubusercontent.com/81430894/126492019-737a1f75-b413-467d-8b91-a1dd04e326b4.jpeg" height="500" width="240"/>
+<img src="https://user-images.githubusercontent.com/81430894/126492033-e0410f61-c219-432d-ac52-d4eb74c12001.jpeg" height="500" width="240"/>
+<img src="https://user-images.githubusercontent.com/81430894/126492043-7898c45a-341d-4d1a-9dcf-af9ed4879a81.jpeg" height="500" width="240"/>
+<img src="https://user-images.githubusercontent.com/81430894/126492050-5f292692-cb44-49ef-a2bb-5fce1033882b.jpeg" height="500" width="240"/>
+<img src="https://user-images.githubusercontent.com/81430894/126492060-92b7d00c-a8d8-4f3d-980b-f936fe603f53.jpeg" height="500" width="240"/>
 
 
 
