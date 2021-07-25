@@ -38,7 +38,7 @@ Checkout Stock </br>
 <img src="https://user-images.githubusercontent.com/81430894/126492050-5f292692-cb44-49ef-a2bb-5fce1033882b.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/126492060-92b7d00c-a8d8-4f3d-980b-f936fe603f53.jpeg" height="500" width="240"/>
 
-Stock Register
+Stock Register</br>
 <img src="https://user-images.githubusercontent.com/81430894/126889809-9615cff3-05a2-4592-bb37-d6357474f554.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/126889879-2fc0873e-9f61-4786-a629-227269ff0cbf.jpeg" height="500" width="240"/>
 
